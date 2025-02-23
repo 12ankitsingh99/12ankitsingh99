@@ -5,8 +5,8 @@
 ### Here are some ideas to get you started:
 
 - 🧑🏽‍💻 I'm working and my favourite field is **Data Science** and **Machine Learning**
-- 🌱 I'm currently working __Generatinve AI, Prompt engineering__
-- 🤝 I'm looking to collaborate on **Generatinve AI Projects**
+- 🌱 I'm currently working __Agentic AI, Generatinve AI, Prompt engineering__
+- 🤝 I'm looking to collaborate on **Generatinve and Agentic AI Projects**
 - 👀 I'm looking for help with __AI__
 - 💭 Ask me about __tech facts__
 - 📞 How to reach me: [LinkedIn](https://www.linkedin.com/in/12ankitsingh99/) or Email- 12ankitsingh99@gmail.com
