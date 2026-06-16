@@ -1,6 +1,6 @@
 # Hi there I'm Ankit👋
 
-## Visit my detailed profile - https://www.linkedin.com/in/12ankitsingh99/
+## Visit my detailed profile - [LinkedIn](https://www.linkedin.com/in/anki-tsingh/)
 
 ### Here are some ideas to get you started:
 
