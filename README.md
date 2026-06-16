@@ -5,7 +5,7 @@
 ### Here are some ideas to get you started:
 
 - 🧑🏽‍💻 I'm working and my favourite field is **AIML** and **Data Science**
-- 🌱 I'm currently working __Agentic AI, Generatinve AI, Prompt engineering__
+- 🌱 I'm currently working __Agentic AI, Generatinve AI, Machine Learning, Data Scientist & Prompt engineering__
 - 🤝 I'm looking to collaborate on **Generative  AI and Agentic AI Projects**
 - 👀 I'm looking for help with __AI Related work__
 - 💭 Ask me about __tech facts__
