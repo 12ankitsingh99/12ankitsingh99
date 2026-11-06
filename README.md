@@ -1,6 +1,6 @@
 # Hi there I'm Ankit👋
 
-## Visit my detailed profile - [LinkedIn](https://www.linkedin.com/in/anki-tsingh/)
+## Visit my detailed profile - [LinkedIn](https://www.linkedin.com/in/ankit-singh-datascientist/)
 
 ### Here are some ideas to get you started:
 
