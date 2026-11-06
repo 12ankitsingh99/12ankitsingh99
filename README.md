@@ -9,7 +9,7 @@
 - 🤝 I'm looking to collaborate on **Generative  AI and Agentic AI Projects**
 - 👀 I'm looking for help with __AI Related work__
 - 💭 Ask me about __tech facts__
-- 📞 How to reach me: [LinkedIn](https://www.linkedin.com/in/12ankitsingh99/) or Email- 12ankitsingh99@gmail.com
+- 📞 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-singh-datascientist/) or Email- 12ankitsingh99@gmail.com
 - ## ❄️ Active on : [HackerRank](https://www.hackerrank.com/profile/12ankitsingh99/) , [Hackerearth](https://www.hackerearth.com/@12ankitsingh99) , [LeetCode](https://leetcode.com/u/12ankitsingh99/) , [Kaggle](https://www.kaggle.com/ankitsingh1299/) , [Geeksforgeeks](https://www.geeksforgeeks.org/profile/12ankitsingh99?tab=activity) and [stackoverfolw](https://stackoverflow.com/users/12642440/ankit-singh)
 - 😆 Memes Lover: Wanna build cool stuffs
 - ⚡️ Fun Fact: Shy at first. Unstoppable once comfortable. You might end up being the shy one. 😉
